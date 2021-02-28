@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Flo\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Flo\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_RtsTest.-1545021711.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Flo\Documents\Unity Projekte\RtsTest" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ChatHandler.cs" t="Include" />
+        <e p="ChatParser.cs" t="Include" />
+        <e p="Customizable Skybox" t="Include">
+          <e p="Stylized Sky" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="Stylized Sky.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="MessageSender.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="AttackPlane.cs" t="Include" />
+          <e p="BuildingManager.cs" t="Include" />
+          <e p="BuildPreview.cs" t="Include" />
+          <e p="BuildPreviewRenderer.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="ChatMessage.cs" t="Include" />
+          <e p="ConnectionListener.cs" t="Include" />
+          <e p="GoldCanvasManager.cs" t="Include" />
+          <e p="MineMachine.cs" t="Include" />
+          <e p="PlayerHandler.cs" t="Include" />
+          <e p="PlayerStats.cs" t="Include" />
+          <e p="RotateTower.cs" t="Include" />
+          <e p="SelectionHandler.cs" t="Include" />
+          <e p="StartGame.cs" t="Include" />
+          <e p="TestCube.cs" t="Include" />
+          <e p="TestHandler.cs" t="Include" />
+          <e p="Tower.cs" t="Include" />
+          <e p="VehiclePanel.cs" t="Include" />
+          <e p="VehicleSpawner.cs" t="Include" />
+        </e>
+        <e p="UnitsCounter.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="RtsTest.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

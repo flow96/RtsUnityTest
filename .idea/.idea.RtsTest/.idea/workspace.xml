@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b627079d-ee9d-4639-9d89-165bbe246067" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/unity/callbacks/IClientListener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/networking/manager/NetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MineMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MessageSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VehiclePanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TestHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelectionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateTower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AttackPlane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VehicleSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Shaders/Stylized Sky.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TestCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GoldCanvasManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChatMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildingManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildPreview.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/9d/aeef96b6/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/client/Client.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ChatHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/unity/base/NetworkTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/unity/base/NetworkMonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7E358363-73B7-4B12-BDE8-BA7FA4D53641/d5/fdb3e82b/Dns.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConnectionListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/networking/messages/game/RpcInvokeMessage.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/unity/base/AttackableUnit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ChatParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/unity/base/BaseTower.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/networking/utils/NetworkHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/unity/base/BaseUnit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnitsCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/d0/82e43741/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildPreviewRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tower.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/test2.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyCustomMessage.cs" />
+        <option value="$PROJECT_DIR$/Assets/CustomServerParser.cs" />
+        <option value="$PROJECT_DIR$/Assets/CustomClientParser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Building.cs" />
+        <option value="$PROJECT_DIR$/Assets/Test1.cs" />
+        <option value="$PROJECT_DIR$/Assets/StartServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Handler.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerPanelHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/StartGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/ConnectionListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PreviewRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildPreview.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/RotateTower.cs" />
+        <option value="$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/networking/manager/NetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MineMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/GoldCanvasManager.cs" />
+        <option value="$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/unity/base/BaseUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/VehicleSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/VehiclePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/SelectionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tower.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestCube.cs" />
+        <option value="$PROJECT_DIR$/Assets/AttackPlane.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildingManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildPreview.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildPreviewRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConnectionListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotateTower.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelectionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestCube.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VehicleSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/MessageSender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tower.cs" />
+        <option value="$PROJECT_DIR$/../../Projekte/RtsNetworkingLibrary/RtsNetworkingLibrary/unity/callbacks/IClientListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AttackPlane.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChatMessage.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatParser.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnitsCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VehiclePanel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kA77cX3dCV1FS6jRXE4cYvB39w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b627079d-ee9d-4639-9d89-165bbe246067" name="Default Changelist" comment="" />
+      <created>1605131375722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605131375722</updated>
+      <workItem from="1605131378627" duration="2130000" />
+      <workItem from="1605174003002" duration="12000" />
+      <workItem from="1606225208234" duration="4274000" />
+      <workItem from="1606320584357" duration="641000" />
+      <workItem from="1607009624260" duration="606000" />
+      <workItem from="1607082602614" duration="874000" />
+      <workItem from="1607096412287" duration="1135000" />
+      <workItem from="1607169419017" duration="2369000" />
+      <workItem from="1607422750126" duration="7061000" />
+      <workItem from="1607531241251" duration="1865000" />
+      <workItem from="1607691848110" duration="6772000" />
+      <workItem from="1607940256166" duration="7184000" />
+      <workItem from="1607963597524" duration="2916000" />
+      <workItem from="1608036053998" duration="8985000" />
+      <workItem from="1608202938680" duration="2415000" />
+      <workItem from="1608208832344" duration="2049000" />
+      <workItem from="1608211406284" duration="112000" />
+      <workItem from="1608280035112" duration="6211000" />
+      <workItem from="1608472677508" duration="5380000" />
+      <workItem from="1608626442984" duration="773000" />
+      <workItem from="1609154848098" duration="9188000" />
+      <workItem from="1609686423122" duration="57000" />
+      <workItem from="1610003351251" duration="3098000" />
+      <workItem from="1610023073952" duration="8453000" />
+      <workItem from="1610031826523" duration="2121000" />
+      <workItem from="1610202720982" duration="1079000" />
+      <workItem from="1610454075487" duration="1742000" />
+      <workItem from="1610529031759" duration="1970000" />
+      <workItem from="1610531596459" duration="1545000" />
+      <workItem from="1610548683906" duration="2215000" />
+      <workItem from="1611745717499" duration="815000" />
+      <workItem from="1613560623359" duration="3802000" />
+      <workItem from="1613646004580" duration="1051000" />
+      <workItem from="1613725961725" duration="6302000" />
+      <workItem from="1614086179922" duration="808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="680" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610531634581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610531634581" />
+    <state x="794" y="235" key="RiderGenerateDialog" timestamp="1610549971214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="235" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610549971214" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1613561550933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613561550933" />
+    <state x="969" y="253" width="644" height="534" key="find.popup" timestamp="1613731785437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="969" y="253" width="644" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613731785437" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613727753128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613727753128" />
+  </component>
+</project>
